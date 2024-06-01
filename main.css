@@ -1,0 +1,50 @@
+ /* div{
+    height: 50px;
+    background-color: lightgreen;
+ }
+ .name{
+    color:white;
+    background-color: black;
+ } */
+ /* *{
+    margin: 0;
+    padding:0;
+ }
+ div ul li{
+    list-style: none;
+ }
+ div{
+    width:120px;
+    height: 100vh;
+    background-color: brown;
+    color:white;
+ }
+ div ul {
+    padding:10px;
+ }
+ div ul :hover , button:hover{
+    background-color: black;
+    color:white;
+ }
+ #open{
+    margin:3px;
+    padding: 3px;
+    border-radius: 8px;
+    
+ }
+ #close{
+    margin:3px;
+    padding: 3px;
+    border-radius: 8px;
+    position: absolute;
+    left:125px;
+
+ }
+ .hide{
+    display: none;
+ } */
+
+/* body{
+   width:2000px;
+   height:2000px;
+} */
